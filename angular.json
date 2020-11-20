@@ -29,6 +29,9 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.css",
+              "src/assets/sass/paper-kit.scss",
+              "src/assets/css/demo.css",
+              "src/assets/css/nucleo-icons.css",
               "src/styles.scss"
             ],
             "scripts": [
@@ -96,6 +99,9 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.css",
+              "src/assets/sass/paper-kit.scss",
+              "src/assets/css/demo.css",
+              "src/assets/css/nucleo-icons.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -127,6 +133,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-first-node-app"
+    }
+  },
+  "defaultProject": "my-first-node-app",
+  "cli": {
+    "analytics": "e0165ed0-1d18-4cad-bf1f-a7e2a83f663f"
+  }
 }
